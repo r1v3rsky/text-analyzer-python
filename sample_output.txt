@@ -1,0 +1,40 @@
+Statistics about sample_input.txt:
+#Words                  : 41
+#Sentences              : 6
+#Words/#Sentences       : 6.83
+#Characters             : 267
+#Characters (Just Words): 215
+The Shortest Word       : a                        (0.0244)
+The Longest Word        : additionally             (0.0244)
+Words and Frequencies   :
+and                     : 0.0732
+is                      : 0.0732
+it                      : 0.0732
+project                 : 0.0488
+text                    : 0.0488
+this                    : 0.0488
+words                   : 0.0488
+a                       : 0.0244
+additionally            : 0.0244
+analyzer                : 0.0244
+basic                   : 0.0244
+calculates              : 0.0244
+characters              : 0.0244
+counts                  : 0.0244
+finds                   : 0.0244
+for                     : 0.0244
+frequencies             : 0.0244
+hello                   : 0.0244
+in                      : 0.0244
+longest                 : 0.0244
+processing              : 0.0244
+python                  : 0.0244
+sentences               : 0.0244
+shortest                : 0.0244
+simple                  : 0.0244
+tasks                   : 0.0244
+the                     : 0.0244
+useful                  : 0.0244
+word                    : 0.0244
+world                   : 0.0244
+written                 : 0.0244

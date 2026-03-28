@@ -1,0 +1,6 @@
+Hello world! This is a simple text analyzer project.
+
+It counts words, sentences, and characters. 
+Additionally, it calculates word frequencies and finds the shortest and longest words.
+
+This project is written in Python. It is useful for basic text processing tasks!
